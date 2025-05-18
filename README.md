@@ -1,9 +1,9 @@
 # SMS Bomber ReZNuM 🚀
 
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
-![Issues](https://img.shields.io/github/issues/itsreznum/sms-bomber)
-![Stars](https://img.shields.io/github/stars/itsreznum/sms-bomber?style=social)
-![Forks](https://img.shields.io/github/forks/itsreznum/sms-bomber?style=social)
+![Issues](https://img.shields.io/github/issues/ItsReZNuM/SMS_Bomber)
+![Stars](https://img.shields.io/github/stars/ItsReZNuM/SMS_Bomber?style=social)
+![Forks](https://img.shields.io/github/forks/ItsReZNuM/SMS_Bomber?style=social)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 Welcome to **SMS Bomber ReZNuM**, a Python-based script designed to demonstrate the interaction with various Iranian web service APIs for sending SMS verification codes. This project is intended for **educational purposes** and **penetration testing** (with explicit permission) to explore HTTP requests, multithreading, and API interactions. 🚨 **Use responsibly and legally!**
@@ -66,8 +66,8 @@ Welcome to **SMS Bomber ReZNuM**, a Python-based script designed to demonstrate 
 1. **Clone the Repository**:
 
    ```
-   git clone https://github.com/reznum/sms-bomber.git
-   cd sms-bomber
+   git clone https://github.com/ItsReZNuM/SMS_Bomber.git
+   cd SMS_Bomber
    ```
 
 2. **Install Dependencies**:
@@ -93,7 +93,7 @@ Welcome to **SMS Bomber ReZNuM**, a Python-based script designed to demonstrate 
 1. **Run the Script**:
 
    ```
-   python SMSBOMBER_ReZNuM.py
+   python Bomber.py
    ```
 
 2. **Enter Phone Number**:
@@ -122,7 +122,7 @@ Welcome to **SMS Bomber ReZNuM**, a Python-based script designed to demonstrate 
 **Example**
 
 ```
-$ python SMSBOMBER_ReZNuM.py
+$ python Bomber.py
 Termux Script
 
 Info:
@@ -208,7 +208,7 @@ We welcome contributions to enhance **SMS Bomber ReZNuM**! Here's how you can he
 2. **Clone Your Fork**:
 
    ```
-   git clone https://github.com/your-username/sms-bomber.git
+   git clone https://github.com/your-username/SMS_Bomber.git
    ```
 
 3. **Create a Branch**:
