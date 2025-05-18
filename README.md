@@ -109,7 +109,7 @@ Welcome to **SMS Bomber ReZNuM**, a Python-based script designed to demonstrate 
 
    - The script sends SMS requests to supported services and displays results:
 
-     ```
+     ```python
      (Snapp) Code Was Sent
      (Divar) Code Was Sent
      [-] Error TimeOut
@@ -123,6 +123,8 @@ Welcome to **SMS Bomber ReZNuM**, a Python-based script designed to demonstrate 
 
 ```
 $ python Bomber.py
+```
+```python
 Termux Script
 
 Info:
@@ -265,8 +267,8 @@ We are committed to fostering an inclusive and respectful community. Please adhe
 Have questions or suggestions? Reach out!
 
 - **GitHub Issues**: Open an issue for bugs or feature requests.
-- **Instagram**: [@reznum](https://instagram.com/reznum)
-- **Telegram**: [@ReZNuM](https://t.me/ReZNuM)
+- **Instagram**: [@rez.num](https://instagram.com/rez.num)
+- **Telegram**: [@ItsReZNuM](https://t.me/ItsReZNuM)
 
 ---
 
